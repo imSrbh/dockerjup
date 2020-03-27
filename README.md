@@ -1,5 +1,13 @@
 # dockerjup
 
+### Spin up a Jupyter Notebook with authentication in a DOCKER Container
+
+```
+sudo docker build -t dockerjup .
+sudo docker run -p 3000:8888 dockerjup
+```
+
+---
 <p align="center">
   <img width="460" height="300" src="https://pbs.twimg.com/media/EUBZsErU8AMKb9I?format=jpg&name=small">
 </p>
