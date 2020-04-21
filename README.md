@@ -7,13 +7,15 @@ sudo docker build -t dockerjup .
 sudo docker run -p 3000:8888 dockerjup
 ```
 
+
 ---
 <p align="center">
   <img width="460" height="300" src="https://pbs.twimg.com/media/EUBZsErU8AMKb9I?format=jpg&name=small">
 </p>
 
+>Explanation of Dockerfile
 
->**Creating a file Dockerfile from the ubuntu base image.**
+**Creating a file Dockerfile from the ubuntu base image.**
 
 Docker containers are an excellent way to package up an analysis. They can include the data you need, any scripts and code, and they’re guaranteed to work on everyone’s machine—no installation required.  
 
