@@ -25,7 +25,7 @@ Your token based Jupyter Notebook is up and running.
   <img width="460" height="300" src="https://pbs.twimg.com/media/EUBZsErU8AMKb9I?format=jpg&name=small">
 </p>
 
->Explanation of Dockerfile
+## Explanation of Dockerfile
 
 **Creating a file Dockerfile from the ubuntu base image.**
 
