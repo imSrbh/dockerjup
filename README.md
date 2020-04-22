@@ -13,7 +13,7 @@ sudo docker run -p 3000:8888 dockerjup
 - Goto browser `localhost:3000` you will see
   You will see 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/imSrbh/dockerjup/blob/master/jup.png?raw=true">
+  <img src="https://github.com/imSrbh/dockerjup/blob/master/jup.png?raw=true">
 </p>
 
 - Enter the Password or token as mentioned in Dockerfile. for this dockerfile password/token is "password"
