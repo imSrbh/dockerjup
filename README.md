@@ -2,11 +2,23 @@
 
 ### Spin up a Jupyter Notebook with authentication in a DOCKER Container
 
+- Build the docker Image _(This might be taking few minutes)_
 ```
 sudo docker build -t dockerjup .
+```
+- Run the conatainer
+```
 sudo docker run -p 3000:8888 dockerjup
 ```
+- Goto browser `localhost:3000` you will see
+  You will see 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/imSrbh/dockerjup/blob/master/jup.png?raw=true">
+</p>
 
+- Enter the Password or token as mentioned in Dockerfile. for this dockerfile password/token is "password"
+
+Your token based Jupyter Notebook is up and running.
 
 ---
 <p align="center">
