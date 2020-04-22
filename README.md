@@ -2,6 +2,7 @@
 
 ### Spin up a Jupyter Notebook with authentication in a DOCKER Container
 
+- Clone the repo `https://github.com/imSrbh/dockerjup.git`
 - Build the docker Image _(This might be taking few minutes)_
 ```
 sudo docker build -t dockerjup .
@@ -22,7 +23,7 @@ Your token based Jupyter Notebook is up and running.
 
 ---
 <p align="center">
-  <img width="460" height="300" src="https://pbs.twimg.com/media/EUBZsErU8AMKb9I?format=jpg&name=small">
+  <img width="230" height="150" src="https://pbs.twimg.com/media/EUBZsErU8AMKb9I?format=jpg&name=small">
 </p>
 
 ## Explanation of Dockerfile
